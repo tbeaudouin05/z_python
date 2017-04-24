@@ -1,0 +1,19 @@
+---
+
+redcat:
+    host: hostname
+    user: username
+    pwd: password
+    db: db_name
+    port: 1234
+    schema: schema_name
+
+anaplan:
+    workspace_id: workspance_id
+    login: user@company.com:password
+    models:
+        - model_1
+        - model_2
+    model_ids:
+        model_1: model_1_id
+        model_2: model_2_id

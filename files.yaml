@@ -1,0 +1,17 @@
+---
+
+test_seasonal_planning:
+    - extract_AP_WSSI_Sales_1.csv
+    #- extract_hlt_ap_mkt.csv
+
+MSSI:
+    #- extract_MSSI_floatinv.csv
+
+
+upload:
+    test_seasonal_planning:
+        extract_AP_WSSI_Sales_1.csv: extract_AP_WSSI_Sales_1.csv
+        #extract_hlt_ap_mkt.csv: extract_hlt_ap_mkt.csv
+
+    MSSI:
+        #extract_MSSI_floatinv.csv: extract_MSSI_floatinv.csv

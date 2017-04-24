@@ -1,0 +1,8 @@
+---
+
+test_seasonal_planning:
+    - extract_AP_WSSI_Sales_1
+    #- extract_hlt_ap_mkt
+
+MSSI:
+    #- extract_MSSI_floatinv
